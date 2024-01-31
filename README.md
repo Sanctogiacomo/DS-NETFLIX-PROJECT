@@ -2,6 +2,8 @@
 
 # **Netflix Data Science Task**! 
 `Your friend suspects that movies are getting shorter and they've found some initial evidence of this. Having peaked your interest, you will perform exploratory data analysis on the netflix_data.csv data to understand what may be contributing to movies getting shorter over time. `
+
+You have been supplied with the dataset `netflix_data.csv` , along with the following table detailing the column names and descriptions:
 ## The data
 ### **netflix_data.csv**
 | Column | Description |
